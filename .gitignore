@@ -1,0 +1,7 @@
+.env
+state.json
+pools.jsonl
+sniper_state.json
+sniper.log
+__pycache__/
+*.pyc
